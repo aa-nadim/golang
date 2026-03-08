@@ -1,1 +1,3 @@
 go1.22.2.linux-amd64.tar.gz
+go.mod
+go.sum
